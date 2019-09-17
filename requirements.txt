@@ -1,4 +1,4 @@
-requests==2.19.1
+requests==2.20.0
 futures==3.2.0
 Flask==1.0.2
 pymysql==0.9.3
